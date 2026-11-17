@@ -1,0 +1,28 @@
+FICTIONAL DEMONSTRATION. All details below are invented for software testing.
+Client: Demo Patient
+Patient ID: SYN-PUBLIC-001
+Case ID: SYN-NECK-001
+
+Initial review 01/09/2026
+S/ Neck stiffness affects checking the blind spot while driving.
+O/ Neck extension 30 degrees before treatment.
+A/ Neck pain and stiffness.
+Rx/ Mobility exercise and education were provided.
+// Neck extension 40 degrees immediately after treatment.
+P/ Continue mobility exercise and review driving symptoms.
+
+15/09/2026
+S/ Checking the blind spot is easier. Neck stiffness still occurs after desk work.
+O/ Neck extension 35 degrees before treatment.
+A/ Ongoing neck stiffness.
+Rx/ Mobility exercise and strengthening exercise were provided.
+// Stiffness reduced immediately after treatment.
+P/ Continue mobility and strengthening exercise to support driving and desk work.
+
+01/10/2026
+S/ Driving is easier than at the previous review. Desk work still causes neck stiffness.
+O/ Neck extension was not remeasured at this visit.
+A/ Ongoing neck stiffness with desk work.
+Rx/ Mobility exercise, strengthening exercise and education were provided.
+// Stiffness reduced immediately after treatment.
+P/ Continue mobility exercise and strengthening exercise. Review symptoms before changing the exercise load.

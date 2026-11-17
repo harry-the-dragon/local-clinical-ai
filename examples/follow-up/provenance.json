@@ -1,0 +1,11 @@
+{
+  "fictional": true,
+  "backend_version": "v17-correspondence-r18",
+  "model_called_in_original_run": true,
+  "fresh_inference_during_publication": false,
+  "source_format": "Original TXT fixture. Historical model run used a PDF rendering of the same fictional case.",
+  "output_type": "Historical workflow output, including program framing and an administrative review invitation.",
+  "clinical_approval": false,
+  "source_sha256": "073077b3c7bcf16a011b63a78dba0809b7e5d011f4d1618ac972b35347e839b0",
+  "output_sha256": "86a90f93732c28b4c5b7d4494c723a0aa4436456ed2afe26dec0df18bb8265c4"
+}

@@ -1,0 +1,32 @@
+FICTIONAL CLINICAL RECORD - NOT REAL PATIENT DATA
+Client Fictional Morgan Reed
+Patient ID FICTIONAL-MANUAL
+Monday, 14th Sep 2026, 2:00pm Simulated Clinician
+Subjective
+Low back stiffness and discomfort limit standing for cooking. Standing tolerance is about half an hour.
+Objective
+Lumbar movement is limited by stiffness. Reduced trunk strength is recorded.
+Provisional Diagnosis
+Mechanical low back pain with stiffness.
+Treatment
+PAIVM was provided. Mobility exercises, supervised strengthening and education about activity pacing were provided.
+Post Treatment
+The patient reported reduced stiffness immediately after treatment.
+Plan
+Continue mobility and strengthening exercises to improve standing tolerance. Review symptoms before progressing load.
+FICTIONAL CLINICAL RECORD - NOT REAL PATIENT DATA
+Client Fictional Morgan Reed
+Patient ID FICTIONAL-MANUAL
+Wednesday, 14th Oct 2026, 2:00pm Simulated Clinician
+Subjective
+Back stiffness is less than at the previous review. Cooking is easier, but prolonged standing still brings on discomfort.
+Objective
+Lumbar movement is less stiff. Trunk strength remains reduced.
+Provisional Diagnosis
+Mechanical low back pain with stiffness.
+Treatment
+PAIVM was provided. Mobility exercises, supervised strengthening and education about activity pacing were provided.
+Post Treatment
+The patient reported reduced stiffness immediately after treatment.
+Plan
+Continue symptom-guided mobility and strengthening exercises to support standing and cooking. Reassess before increasing load.
